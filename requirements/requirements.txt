@@ -4,4 +4,4 @@ matplotlib==3.5.1
 msgpack==1.0.3
 numpy==1.22.1
 pandas==1.4.0
--e git://github.com/backtrader2/backtrader.git#egg=backtrader
+-e git+https://github.com/backtrader2/backtrader.git#egg=backtrader
